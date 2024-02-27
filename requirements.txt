@@ -1,0 +1,7 @@
+python==3.11.x ```brew install python=3.11.x```
+dlib==19.24.2  ```pip install dlib==19.24.2 ```
+numpy==1.26.4  ```pip install numpy==1.26.4 ```
+scikit-image==0.18.3  ```pip install scikit-image==0.18.3 ```
+pandas==1.3.4  ```pip install pip install pandas==1.3.4 ```
+opencv-python==4.9.0.80  ```pip install opencv-python==4.9.0.80 ```
+flask==2.1.5  ```pip install flask 2.1.5 ```
