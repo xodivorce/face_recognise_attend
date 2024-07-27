@@ -2,7 +2,7 @@
 
 ### Welcome to the Face Recognition Attendance System using OpenCV and Python. This system captures images using a camera and marks attendance by comparing them with images in the database. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
-[![version](https://img.shields.io/badge/version-v6.9.16-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
+[![version](https://img.shields.io/badge/version-v6.9.17-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 <br></br>
 
@@ -146,7 +146,7 @@ This project is licensed under the [**GNU General Public License v3.0**](LICENSE
 6. **Copyright Infringement**:
    - Unauthorized use that violates the terms of the GPLv3 may result in legal action.
 
-© 2024 Prasid, [xodivorce.in](https://www.xodivorce.in). All rights reserved.
+© 2024 Prasid, ([*xodivorce.in*](https://www.xodivorce.in)). All rights reserved.
 
 **🌟 Like this project? Please consider giving it a star to show your support!**
 
