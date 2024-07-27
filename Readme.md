@@ -2,7 +2,7 @@
 
 ### Welcome to the Face Recognition Attendance System using OpenCV and Python. This system captures images using a camera and marks attendance by comparing them with images in the database. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
-[![version](https://img.shields.io/badge/version-v6.9.14-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
+[![version](https://img.shields.io/badge/version-v6.9.15-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 <br></br>
 
@@ -13,8 +13,8 @@ Here’s what fuels this Application:
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DBIL](https://img.shields.io/badge/Dlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OPENCV-PYTHON](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SCIKIT IMAGE](https://img.shields.io/badge/Scikit-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OPENCV](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SCIKIT](https://img.shields.io/badge/Scikit-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 **Note: Developed on macOS Sonoma 14.3.1. May not work on other operating systems due to dependencies on OpenCV, pandas, and Flask.**
