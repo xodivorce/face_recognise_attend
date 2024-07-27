@@ -2,7 +2,7 @@
 
 ### Welcome to the Face Recognition Attendance System using OpenCV and Python. This system captures images using a camera and marks attendance by comparing them with images in the database. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
-[![version](https://img.shields.io/badge/version-v6.9.12-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
+[![version](https://img.shields.io/badge/version-v6.9.13-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 <br></br>
 
@@ -25,9 +25,9 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
 
 1. **Fork and Clone**:
    - Hit “Fork” at the top-right of the page to make your copy. Then clone it to your local machine:
-     ```bash
+    ```bash
      git clone git@github.com:xodivorce/xodivorce_in.git
-     ```
+    ```
 2. **Set Up Your Local Playground**:
     ```bash
     #Visit the project to your working directory:
@@ -107,7 +107,7 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
 
 11. **Commit and Push**:
     - Once you’re happy, commit and push your changes:
-  ```bash
+    ```bash
      git add .
      git commit -m "Add some cool feature"
      git push origin cool-new-feature
