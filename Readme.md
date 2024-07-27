@@ -2,7 +2,7 @@
 
 ### Welcome to the Face Recognition Attendance System using OpenCV and Python. This system captures images using a camera and marks attendance by comparing them with images in the database. - deveoped by [@xodivorce](https://instagram.com/xodivorce) ✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
-[![version](https://img.shields.io/badge/version-v6.9.11-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
+[![version](https://img.shields.io/badge/version-v6.9.12-yellow.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/face_recognise_attend)
 <br></br>
 
@@ -13,11 +13,11 @@ Here’s what fuels this Application:
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![DBIL](https://img.shields.io/badge/Dlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OPENCV-PYTHON](https://img.shields.io/badge/OpenCV-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SCIKIT IMAGE](https://img.shields.io/badge/Scikit-Image-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OPENCV-PYTHON](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SCIKIT IMAGE](https://img.shields.io/badge/Scikit-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-# **Note: Developed on macOS Sonoma 14.3.1. May not work on other operating systems due to dependencies on OpenCV, pandas, and Flask.**
+**Note: Developed on macOS Sonoma 14.3.1. May not work on other operating systems due to dependencies on OpenCV, pandas, and Flask.**
 
 ### 🛠️ How to Contribute: Let’s Make Magic!
 
@@ -40,37 +40,37 @@ Want to jump in and sprinkle some magic on this project? Follow these steps:
 
 4. Install specific versions of dependencies [*usingpip*](https://pypi.org/project/pip/):
 
-    - **Dlib installation**:
+- **Dlib installation**:
   ```bash
       # Dlib version = 19.24.2
        pip install dlib==19.24.2
     ```
 
-    - **Numpy installation**:
+- **Numpy installation**:
     ```bash
       # Numpy version = 1.26.4
        pip install numpy==1.26.4
     ```
 
-    - **OpenCV-Python installation**:
+- **OpenCV-Python installation**:
     ```bash
       # Opencv-python version = 4.9.0
        pip install opencv-python==4.9.0
     ```
 
-    - **Pandas installation**:
+- **Pandas installation**:
     ```bash
      # Pandas version = 2.2.2
        pip install pandas==2.2.2
     ```
 
-    - **Scikit-Image installation**:
+- **Scikit-Image installation**:
     ```bash
      # Scikit-image version = 2.2.2
        pip install scikit-image==2.2.2
     ```
 
-    - **Flask installation**:
+- **Flask installation**:
     ```bash
      # Flask version = 3.0.3
        pip install flask==3.0.3
